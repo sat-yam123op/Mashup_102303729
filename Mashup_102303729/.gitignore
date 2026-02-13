@@ -1,0 +1,10 @@
+venv/
+videos/
+audios/
+trimmed/
+*.mp3
+*.zip
+__pycache__/
+.env
+email_user=satyam.chowari@gmail.com
+email_pass=xuwvvrisvtxcbdeg
